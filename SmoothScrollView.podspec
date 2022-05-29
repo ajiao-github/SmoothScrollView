@@ -1,9 +1,9 @@
 
 
 Pod::Spec.new do |s|
-s.name             = "JoJoScrollView"
+s.name             = "SmoothScrollView"
 s.version          = "0.0.1"
-s.summary          = "JoJoScrollView是一个轮播图，支持手动滑动，定时器滑动，复用性强"
+s.summary          = "SmoothScrollView是一个轮播图，支持手动滑动，定时器滑动，复用性强"
 
 s.homepage         = "https://github.com/ajiao-github/SmoothScrollView.git"
 s.license          = 'MIT'
